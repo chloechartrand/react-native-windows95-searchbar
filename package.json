@@ -1,0 +1,34 @@
+{
+  "name": "react-native-windows95-searchbar",
+  "version": "1.0.0",
+  "description": "windows 95 inspired search bar component for React Native. uses react95-native.",
+  "main": "src/SearchBar95.tsx",
+  "license": "MIT",
+  "keywords": [
+    "react-native",
+    "search",
+    "searchbar",
+    "ui",
+    "component",
+    "windows 95",
+    "retro"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/react-native-windows95-searchbar.git"
+  },
+  "author": "Chloe Chartrand",
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-native": ">=0.72.0",
+    "react95-native": ">=1.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-native": "^0.72.0",
+    "typescript": "^5.0.0"
+  },
+  "files": [
+    "src"
+  ]
+}
