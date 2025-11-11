@@ -1,6 +1,6 @@
 # react native windows95 search bar
 
-🔍 a **windows95 inspired** search bar component that allows you to add to your nostalgic react native UIs without compromising modern functionality
+🔍 a **windows95 inspired** search bar component
 
 🕹️ designed to be used in Windows-95/early internet inspired retro UIs. 
 
